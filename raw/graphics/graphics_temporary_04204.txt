@@ -201,20 +201,20 @@ It should be in the end(after other files) to work properly with already defined
 	[DEFAULT:PHOEBUS_ANIMALS:1:11:AS_IS:DEFAULT]
 
 --creature_amphibians
-TOAD_MAN
+TOAD_MAN//graphics_new_04204 recolored DOREN_CRITTERMEN GREEN_TREE_FROG_MAN
 GIANT_TOAD// = TOAD_GIANT_CAVE
 --creature_annelids
-WORM_MAN
+WORM_MAN//graphics_new_04204
 --creature_birds
-BLUEJAY_MAN
+BLUEJAY_MAN//graphics_new_04204 remixed DOREN_CRITTERMEN normal bird
 GIANT_BLUEJAY// = normal
-CARDINAL_MAN
+CARDINAL_MAN//graphics_new_04204 remixed DOREN_CRITTERMEN normal bird
 GIANT_CARDINAL// = normal
-GRACKLE_MAN
+GRACKLE_MAN//graphics_new_04204 remixed DOREN_CRITTERMEN normal bird
 GIANT_GRACKLE// = normal
-ORIOLE_MAN
+ORIOLE_MAN//graphics_new_04204 remixed DOREN_CRITTERMEN normal bird
 GIANT_ORIOLE// = normal
-RW_BLACKBIRD_MAN
+RW_BLACKBIRD_MAN//graphics_new_04204 remixed DOREN_CRITTERMEN normal bird
 GIANT_RW_BLACKBIRD// = normal
 --creature_birds_new
 no changes
@@ -226,18 +226,18 @@ no new creatures
 --creature_fanciful
 no changes
 --creature_insects//keep in mind that giant insects have size 2000070 - almost half of an elephant. Dot tiles are not suitable for them.  Other giants creatures are also big, but their normal tiles are not dots.
-FLY_MAN
-GIANT_FLY
-ROACH_MAN
-GIANT_ROACH
-BEETLE_MAN
-GIANT_BEETLE
-BUTTERFLY_MONARCH_MAN
-GIANT_BUTTERFLY_MONARCH
-FIREFLY_MAN
-GIANT_FIREFLY
-DRAGONFLY_MAN
-GIANT_DRAGONFLY
+FLY_MAN//graphics_insects_04204
+GIANT_FLY//graphics_insects_04204
+ROACH_MAN//graphics_insects_04204
+GIANT_ROACH//graphics_insects_04204
+BEETLE_MAN//graphics_insects_04204
+GIANT_BEETLE//graphics_insects_04204
+BUTTERFLY_MONARCH_MAN//graphics_insects_04204
+GIANT_BUTTERFLY_MONARCH//graphics_insects_04204
+FIREFLY_MAN//graphics_insects_04204
+GIANT_FIREFLY//graphics_insects_04204
+DRAGONFLY_MAN//graphics_insects_04204
+GIANT_DRAGONFLY//graphics_insects_04204
 --creature_large_mountain
 GOAT_MOUNTAIN_MAN
 GIANT_GOAT_MOUNTAIN// = normal

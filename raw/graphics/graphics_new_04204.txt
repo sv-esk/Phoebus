@@ -1,0 +1,147 @@
+graphics_new_04204
+
+[TILE_PAGE:NEW_4204]
+	[FILE:new_4204/giant_and_mans.png]
+	[TILE_DIM:16:16]
+	[PAGE_DIM:18:19]
+
+[OBJECT:GRAPHICS]
+
+[CREATURE_GRAPHICS:TOAD_MAN]
+	[DEFAULT:NEW_4204:1:0:AS_IS:DEFAULT]
+	[CHILD:NEW_4204:1:0:AS_IS:DEFAULT]
+	[ANIMATED:NEW_4204:1:0:AS_IS:DEFAULT]
+
+[CREATURE_GRAPHICS:WORM_MAN]
+	[DEFAULT:NEW_4204:3:0:AS_IS:DEFAULT]
+	[CHILD:NEW_4204:3:0:AS_IS:DEFAULT]
+	[ANIMATED:NEW_4204:3:0:AS_IS:DEFAULT]
+
+[CREATURE_GRAPHICS:BLUEJAY_MAN]
+	[DEFAULT:NEW_4204:1:1:AS_IS:DEFAULT]
+	[CHILD:NEW_4204:1:1:AS_IS:DEFAULT]
+	[ANIMATED:NEW_4204:1:1:AS_IS:DEFAULT]
+
+[CREATURE_GRAPHICS:CARDINAL_MAN]
+	[DEFAULT:NEW_4204:3:1:AS_IS:DEFAULT]
+	[CHILD:NEW_4204:3:1:AS_IS:DEFAULT]
+	[ANIMATED:NEW_4204:3:1:AS_IS:DEFAULT]
+
+[CREATURE_GRAPHICS:GRACKLE_MAN]
+	[DEFAULT:NEW_4204:5:1:AS_IS:DEFAULT]
+	[CHILD:NEW_4204:5:1:AS_IS:DEFAULT]
+	[ANIMATED:NEW_4204:5:1:AS_IS:DEFAULT]
+
+[CREATURE_GRAPHICS:ORIOLE_MAN]
+	[DEFAULT:NEW_4204:7:1:AS_IS:DEFAULT]
+	[CHILD:NEW_4204:7:1:AS_IS:DEFAULT]
+	[ANIMATED:NEW_4204:7:1:AS_IS:DEFAULT]
+
+[CREATURE_GRAPHICS:RW_BLACKBIRD_MAN]
+	[DEFAULT:NEW_4204:9:1:AS_IS:DEFAULT]
+	[CHILD:NEW_4204:9:1:AS_IS:DEFAULT]
+	[ANIMATED:NEW_4204:9:1:AS_IS:DEFAULT]
+
+--creature_large_mountain
+GOAT_MOUNTAIN_MAN
+GIANT_GOAT_MOUNTAIN// = normal
+MARMOT_HOARY_MAN
+GIANT_MARMOT_HOARY// = normal
+--creature_large_ocean
+WALRUS_MAN
+GIANT_WALRUS// = normal
+--creature_large_reverlake
+HIPPO_MAN
+GIANT_HIPPO// = normal
+--creature_large_temperate
+BEAR_GRIZZLY_MAN
+GIANT_BEAR_GRIZZLY// = normal
+BEAR_BLACK_MAN
+GIANT_BEAR_BLACK// = normal
+DEER_MAN
+GIANT_DEER// = normal
+FOX_MAN
+GIANT_FOX// = normal
+RACCOON_MAN
+GIANT_RACCOON// = normal
+MACAQUE_RHESUS_MAN
+GIANT_MACAQUE_RHESUS// = normal
+COUGAR_MAN
+GIANT_COUGAR// = normal
+WOLF_MAN
+GIANT_WOLF// = normal
+GROUNDHOG_MAN
+GIANT_GROUNDHOG// = normal
+ALLIGATOR_MAN
+GIANT_ALLIGATOR// = normal
+BUZZARD_MAN
+GIANT_BUZZARD// = normal
+--creature_large_tropical
+ELEPHANT_MAN
+GIANT_ELEPHANT// = normal
+WARTHOG_MAN
+GIANT_WARTHOG// = normal
+LION_MAN
+GIANT_LION(renamed. Was LION_GIANT)//no need to redraw
+LEOPARD_MAN
+GIANT_LEOPARD(renamed. Was LEOPARD_GIANT)//no need to redraw
+JAGUAR_MAN
+GIANT_JAGUAR//(renamed. Was JAGUAR_GIANT)//no need to redraw
+TIGER_MAN (renamed. Was TIGERMAN)//no need to redraw
+GIANT_TIGER(renamed. Was TIGER_GIANT)//no need to redraw
+CHEETAH_MAN
+GIANT_CHEETAH(renamed. Was CHEETAH_GIANT)//no need to redraw
+GAZELLE_MAN
+GIANT_GAZELLE// = normal
+MANDRILL_MAN
+GIANT_MANDRILL// = normal
+CAMEL_1_HUMP_MAN
+GIANT_CAMEL_1_HUMP// = normal
+CAMEL_2_HUMP_MAN
+GIANT_CAMEL_2_HUMP// = normal
+CROCODILE_SALTWATER_MAN
+GIANT_CROCODILE_SALTWATER// = normal
+VULTURE_MAN
+GIANT_VULTURE// = normal
+RHINOCEROS_MAN
+GIANT_RHINOCEROS// = normal
+GIRAFFE_MAN
+GIANT_GIRAFFE// = normal
+[HONEY BADGER MAN]   (yes, its spaces between words in ID)
+[HONEY BADGER, GIANT]  (and comma)// = normal
+--creature_large_tundra
+MUSKOX_MAN
+GIANT_MUSKOX// = normal
+ELK_MAN
+GIANT_ELK// = normal
+BEAR_POLAR_MAN
+GIANT_BEAR_POLAR// = normal
+--creature_mountain_new
+--creature_other
+no changes
+--creature_reptiles
+LIZARD_MAN
+GIANT_LIZARD
+--creature_riverlakepool_new
+no new creatures
+--creature_small_mammal_new
+no changes
+--creature_small_mammals
+RAT_MAN
+SQUIRREL_GRAY_MAN
+GIANT_SQUIRREL_GRAY
+SQUIRREL_RED_MAN
+GIANT_SQUIRREL_RED
+CHIPMUNK_MAN
+GIANT_CHIPMUNK
+--creature_small_ocean
+--creature_small_riverlake
+--creature_standard
+no changes
+--creature_subterranean
+TOAD_GIANT_CAVE  (renamed. Was TOAD_GIANT)//= old TOAD_GIANT
+--creature_temperate_new
+--creature_tropical_new
+no new creatures
+--creature_tundra_taiga_new
+no changes
